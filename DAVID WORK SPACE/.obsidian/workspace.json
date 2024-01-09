@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/Reverse engineering synthesis/Lesson_5/Sci-Fi.md",
+                "file": "Work in BlackJack/Work plan for the week/2023-12-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/Reverse engineering synthesis/Lesson_5/Sci-Fi.md",
+                "file": "Work in BlackJack/Work plan for the week/2023-12-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/Reverse engineering synthesis/Lesson_5/Sci-Fi.md",
+                "file": "Work in BlackJack/Work plan for the week/2023-12-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/Reverse engineering synthesis/Lesson_5/Sci-Fi.md"
+                "file": "Work in BlackJack/Work plan for the week/2023-12-25.md"
               }
             }
           }
@@ -160,18 +160,18 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "8f5f1a886538081e",
   "lastOpenFiles": [
+    "Ambitions/Ambitions.canvas",
+    "Course/Reverse engineering synthesis/Lesson_5/Sci-Fi.md",
     "Course/Reverse engineering synthesis/Lesson_4/Простая генеративная система взрывов.canvas",
     "Course/Reverse engineering synthesis/Lesson_4/Звуковые системы.canvas",
     "Course/Reverse engineering synthesis/Lesson_4/Звуки коллизий.md",
-    "Ambitions/Ambitions.canvas",
     "Senior/13 Необходимых навыков аудиодизайнера уровня Senior.canvas",
-    "Course/Reverse engineering synthesis/Lesson_5/Sci-Fi.md",
     "Work in BlackJack/Пароли.md",
     "Work in BlackJack/Work plan for the week/2023-09-27.md",
     "Work in BlackJack/Work plan for the week/2023-10-07.md",
