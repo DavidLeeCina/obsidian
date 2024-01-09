@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d4c5856147c0c626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work in BlackJack/Work plan for the week/2023-12-25.md",
+                "file": "GH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work in BlackJack/Work plan for the week/2023-12-25.md",
+                "file": "GH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work in BlackJack/Work plan for the week/2023-12-25.md"
+                "file": "GH.md"
               }
             }
           }
@@ -164,8 +177,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8f5f1a886538081e",
+  "active": "15a1a6f21a1ea2d7",
   "lastOpenFiles": [
+    "Work in BlackJack/Work plan for the week/2023-12-25.md",
+    "GH.md",
+    "Work in BlackJack/Work plan for the week/2023-12-11.md",
     "Ambitions/Ambitions.canvas",
     "Course/Reverse engineering synthesis/Lesson_5/Sci-Fi.md",
     "Course/Reverse engineering synthesis/Lesson_4/Простая генеративная система взрывов.canvas",
@@ -195,11 +211,9 @@
     "Work in BlackJack/Отчет за год и планы на следующий год",
     "Work in BlackJack/Отчет за год и планы на следующий год/File/Pasted image 20231228140804.png",
     "Work in BlackJack/Work plan for the week/2024-01-02.md",
-    "Work in BlackJack/Work plan for the week/2023-12-25.md",
     "Course/Reverse engineering synthesis/Lesson_4/COLLISION SOUNDS IMPACTS AND IMPACTS.md",
     "Course/Reverse engineering synthesis/Lesson_4/File/Demo_Collision.png",
     "Work in BlackJack/Work plan for the week/2023-12-04.md",
-    "Work in BlackJack/Work plan for the week/2023-12-11.md",
     "Work in BlackJack/Work plan for the week/2023-12-18.md",
     "Course/Reverse engineering synthesis/Lesson_3/Creating your own synthesizer/Creating your own synthesizer.md",
     "Course/Reverse engineering synthesis/Lesson_3/Creating your own synthesizer/Схема работы синтезатора.canvas",
