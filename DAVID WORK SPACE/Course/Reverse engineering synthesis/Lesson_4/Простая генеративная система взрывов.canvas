@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"363ccef7ef226c87","type":"file","file":"Course/Reverse engineering synthesis/Lesson_4/File/Простая генеративная система взрывов/Event.png","x":-940,"y":378,"width":167,"height":238},
+		{"id":"0e4c577df104608c","type":"file","file":"Course/Reverse engineering synthesis/Lesson_4/File/Простая генеративная система взрывов/Switch.png","x":-660,"y":294,"width":259,"height":168},
+		{"id":"b68e374976869950","type":"file","file":"Course/Reverse engineering synthesis/Lesson_4/File/Простая генеративная система взрывов/Expl_Size.png","x":-700,"y":518,"width":400,"height":167},
+		{"id":"e009ba1f0c7ca01e","type":"file","file":"Course/Reverse engineering synthesis/Lesson_4/File/Простая генеративная система взрывов/ADSR_Expl.png","x":-200,"y":380,"width":429,"height":170},
+		{"id":"0608f03e44cf681b","type":"file","file":"Course/Reverse engineering synthesis/Lesson_4/File/Простая генеративная система взрывов/Взрыв_авто.png","x":340,"y":347,"width":342,"height":237},
+		{"id":"b31d64deaa29de8f","type":"text","text":"**CAR:**\n**Options:**\n**Explosion Size** - Medium\n**Materials** - Glass Medium，Metal Medium，Stone No, Wood, No","x":-1560,"y":421,"width":525,"height":152}
+	],
+	"edges":[
+		{"id":"a35bc6da40322364","fromNode":"b31d64deaa29de8f","fromSide":"right","toNode":"363ccef7ef226c87","toSide":"left"},
+		{"id":"08ba6ece7e690429","fromNode":"363ccef7ef226c87","fromSide":"right","toNode":"0e4c577df104608c","toSide":"left"},
+		{"id":"a7ba1ac87dc7dbcf","fromNode":"363ccef7ef226c87","fromSide":"right","toNode":"b68e374976869950","toSide":"left"},
+		{"id":"bb0f46d4ca920544","fromNode":"0e4c577df104608c","fromSide":"right","toNode":"e009ba1f0c7ca01e","toSide":"left"},
+		{"id":"1a449046576b53f9","fromNode":"b68e374976869950","fromSide":"right","toNode":"e009ba1f0c7ca01e","toSide":"left"},
+		{"id":"bcee54ff307d3d0f","fromNode":"e009ba1f0c7ca01e","fromSide":"right","toNode":"0608f03e44cf681b","toSide":"left"}
+	]
+}

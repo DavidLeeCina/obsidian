@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"27a9c1acf439b793","type":"group","x":-440,"y":580,"width":1406,"height":460,"label":"THE SCHEME OF THE SYNTHESIZER 合成器的方案 "},
+		{"id":"97d4dc465afeb46d","type":"group","x":-440,"y":61,"width":1190,"height":339,"label":"СХЕМА РАБОТЫ СИНТЕЗАТОРА"},
+		{"id":"abf1c31cb1c656c1","type":"text","text":"## <p align=\"center\">ГУБЫ И ПОЛОСТЬ ГЛОДКИ </p>\n---\n\n### <p align=\"center\">Фильтр</p>\n\n<p align=\"center\"> Изменяет тембр звука, идущего из генератора звука</p>","x":-120,"y":81,"width":250,"height":299},
+		{"id":"3928afa5bbda500f","type":"text","text":"## <p align=\"center\">ДАВЛЕНИЕ И ЧАСТОТА </p>\n---\n\n### <p align=\"center\">Модуляция</p>\n\n<p align=\"center\"> Меняет параметры контроллеров синтезатора</p>","x":180,"y":81,"width":250,"height":299},
+		{"id":"836e644d8abd873f","type":"text","text":"## <p align=\"center\">ГОЛОСОВЫЕ СВЯЗКИ</p>\n---\n\n### <p align=\"center\">Осциллятор</p>\n\n<p align=\"center\"> Предназначен для генерации звука</p>","x":-420,"y":81,"width":250,"height":299},
+		{"id":"b65af814e03dce45","type":"text","text":"## <p align=\"center\">ОКРУЖАЮЩЕЕ ПРОСТРАНСТВО </p>\n---\n\n### <p align=\"center\">Эффекты</p>\n\n<p align=\"center\">  Добавляют художественное восприятие звука</p>","x":480,"y":81,"width":250,"height":299},
+		{"id":"03536f0706c7ce44","type":"text","text":"## <p align=\"center\">VOCAL CORDS </p>\n\n\n## <p align=\"center\">声带 </p>\n\n\n---\n\n### <p align=\"center\">Oscillator</p>\n\n<p align=\"center\"> Designed to generate sound 设计用于产生声音</p>","x":-420,"y":600,"width":200,"height":400},
+		{"id":"1433b13c95a36ddf","type":"text","text":"## <p align=\"center\">LIPS AND PHARYNGEAL CAVITY </p>\n## <p align=\"center\">嘴唇和咽腔</p>\n---\n\n### <p align=\"center\">Filter</p>\n\n<p align=\"center\"> Changes the timbre of the sound coming from the sound generator 更改来自声音发生器的声音的音色 </p>","x":-170,"y":600,"width":391,"height":400},
+		{"id":"b3ddc4a666422c60","type":"text","text":"## <p align=\"center\">PRESSURE AND FREQUENCY</p>\n## <p align=\"center\"> 压力和频率 </p>\n---\n\n### <p align=\"center\">Modulation</p>\n\n<p align=\"center\"> Changes parameters of synthesizer controllers 更改合成器控制器的参数 </p>","x":264,"y":600,"width":353,"height":400},
+		{"id":"938e5ea72f9fa495","type":"text","text":"## <p align=\"center\">SURROUNDING SPACE </p>\n## <p align=\"center\">周围空间  </p>\n---\n\n### <p align=\"center\">Effects</p>\n\n<p align=\"center\">  Add artistic perception of sound 添加声音的艺术感知</p>","x":660,"y":600,"width":281,"height":400}
+	],
+	"edges":[
+		{"id":"6fa605095b2a2a41","fromNode":"836e644d8abd873f","fromSide":"right","toNode":"abf1c31cb1c656c1","toSide":"left"},
+		{"id":"62a48452008fb6be","fromNode":"abf1c31cb1c656c1","fromSide":"right","toNode":"3928afa5bbda500f","toSide":"left"},
+		{"id":"e415fe675d91619e","fromNode":"3928afa5bbda500f","fromSide":"right","toNode":"b65af814e03dce45","toSide":"left"},
+		{"id":"b1f42c980d0c9e1c","fromNode":"1433b13c95a36ddf","fromSide":"right","toNode":"b3ddc4a666422c60","toSide":"left"},
+		{"id":"aa98493cc0dcf083","fromNode":"03536f0706c7ce44","fromSide":"right","toNode":"1433b13c95a36ddf","toSide":"left"},
+		{"id":"ecbacd0dcfe9f11c","fromNode":"b3ddc4a666422c60","fromSide":"right","toNode":"938e5ea72f9fa495","toSide":"left"}
+	]
+}

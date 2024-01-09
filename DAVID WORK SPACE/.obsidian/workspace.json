@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "8b62c32c0b970769",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dc72d331ebf58b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f5f1a886538081e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course/Reverse engineering synthesis/Lesson_5/Sci-Fi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e01ac6ec66fff857",
+    "type": "split",
+    "children": [
+      {
+        "id": "afba670bda897fe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15a1a6f21a1ea2d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bdfb8c096a61c46b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3572d8eab0edb004",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8a77af4e446dc195",
+    "type": "split",
+    "children": [
+      {
+        "id": "289318d92c1e859b",
+        "type": "tabs",
+        "dimension": 50.41095890410959,
+        "children": [
+          {
+            "id": "3a7ee0b2cf34b2ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Course/Reverse engineering synthesis/Lesson_5/Sci-Fi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4614177411b6700a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Course/Reverse engineering synthesis/Lesson_5/Sci-Fi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7902544a235fb114",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d29a79d443e85f85",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Course/Reverse engineering synthesis/Lesson_5/Sci-Fi.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0ad1b3df3f150c1b",
+        "type": "tabs",
+        "dimension": 49.589041095890416,
+        "children": [
+          {
+            "id": "a898e017043d7726",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "8f5f1a886538081e",
+  "lastOpenFiles": [
+    "Course/Reverse engineering synthesis/Lesson_4/Простая генеративная система взрывов.canvas",
+    "Course/Reverse engineering synthesis/Lesson_4/Звуковые системы.canvas",
+    "Course/Reverse engineering synthesis/Lesson_4/Звуки коллизий.md",
+    "Ambitions/Ambitions.canvas",
+    "Senior/13 Необходимых навыков аудиодизайнера уровня Senior.canvas",
+    "Course/Reverse engineering synthesis/Lesson_5/Sci-Fi.md",
+    "Work in BlackJack/Пароли.md",
+    "Work in BlackJack/Work plan for the week/2023-09-27.md",
+    "Work in BlackJack/Work plan for the week/2023-10-07.md",
+    "Ambitions",
+    "Планы.md",
+    "Box tool/Templates/Work in BlackJack/Work plan for the week.md",
+    "Work in BlackJack/Work plan for the week/2024-01-08.md",
+    "Work in BlackJack/Отчет за год и планы на следующий год/Отчет о проделанной работе и планы на следующий год.md",
+    "Work in BlackJack/Отчет за год и планы на следующий год/File/Pasted image 20231228114113.png",
+    "Work in BlackJack/Отчет за год и планы на следующий год/File/Pasted image 20231228113220.png",
+    "Work in BlackJack/Отчет за год и планы на следующий год/File/Pasted image 20231228113054.png",
+    "Work in BlackJack/Отчет за год и планы на следующий год/File/Pasted image 20231228112508.png",
+    "Work in BlackJack/Отчет за год и планы на следующий год/File/Pasted image 20231228112249.png",
+    "Work in BlackJack/Отчет за год и планы на следующий год/File/Pasted image 20231227151841.png",
+    "Work in BlackJack/Отчет за год и планы на следующий год/File/Снимок экрана 2024-01-02 в 16.52.10.png",
+    "Work in BlackJack/Отчет за год и планы на следующий год/File/9585C93DB5A72A6C57C1A22DD0986AD5.png",
+    "Work in BlackJack/Отчет за год и планы на следующий год/Отчет за год и планы на следующий год.md",
+    "File.md",
+    "Work in BlackJack/Отчет за год и планы на следующий год/File",
+    "Untitled 1.md",
+    "Work in BlackJack/Отчет за год и планы на следующий год",
+    "Work in BlackJack/Отчет за год и планы на следующий год/File/Pasted image 20231228140804.png",
+    "Work in BlackJack/Work plan for the week/2024-01-02.md",
+    "Work in BlackJack/Work plan for the week/2023-12-25.md",
+    "Course/Reverse engineering synthesis/Lesson_4/COLLISION SOUNDS IMPACTS AND IMPACTS.md",
+    "Course/Reverse engineering synthesis/Lesson_4/File/Demo_Collision.png",
+    "Work in BlackJack/Work plan for the week/2023-12-04.md",
+    "Work in BlackJack/Work plan for the week/2023-12-11.md",
+    "Work in BlackJack/Work plan for the week/2023-12-18.md",
+    "Course/Reverse engineering synthesis/Lesson_3/Creating your own synthesizer/Creating your own synthesizer.md",
+    "Course/Reverse engineering synthesis/Lesson_3/Creating your own synthesizer/Схема работы синтезатора.canvas",
+    "Course/Reverse engineering synthesis/Lesson_3/Creating your own synthesizer/Создание собственного синтезатора.md",
+    "Work in BlackJack/Work plan for the week/2023-11-27.md",
+    "Work in BlackJack/Work plan for the week/2023-11-20.md",
+    "Work in BlackJack/Work plan for the week/2023-11-13.md",
+    "Work in BlackJack/Work plan for the week/2023-11-06.md",
+    "Work in BlackJack/Work plan for the week/2023-10-30.md",
+    "Course/Reverse engineering synthesis/Lesson_3/Casual sounds/Casual sound.canvas",
+    "Wwise",
+    "Course/Reverse engineering synthesis/Lesson_5",
+    "Course/Reverse engineering synthesis/Lesson_4/File/Microsoft",
+    "Course/Reverse engineering synthesis/Lesson_4/File/Простая генеративная система взрывов",
+    "Course/Reverse engineering synthesis/Lesson_3/Creating your own synthesizer/Волны и гармоники.canvas",
+    "Course/Reverse engineering synthesis/Lesson_4/File",
+    "Course/Reverse engineering synthesis/Lesson_4",
+    "Course/Reverse engineering synthesis/Lesson_3/Creating your own synthesizer/Files/Audio/trianglewave.mp3",
+    "COURSES/Reverse engineering synthesis/Lesson_4/Без названия.canvas",
+    "COURSES/Reverse engineering synthesis/Lesson_3/Creating your own synthesizer/Волны и гармоники.canvas",
+    "Courses/Reverse engineering synthesis/Lesson_3/Creating your own synthesizer/Волны и гармоники.canvas"
+  ]
+}

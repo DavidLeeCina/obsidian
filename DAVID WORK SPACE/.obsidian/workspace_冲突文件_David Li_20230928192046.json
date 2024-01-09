@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "8b62c32c0b970769",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dc72d331ebf58b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e41ac9c1782c1d2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Reverse engineering synthesis/Lesson_3/3.2 Casual sounds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0c0a97cf0e3b1c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Reverse engineering synthesis/Lesson_3/3.1 Creating your own synthesizer.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e01ac6ec66fff857",
+    "type": "split",
+    "children": [
+      {
+        "id": "afba670bda897fe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15a1a6f21a1ea2d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bdfb8c096a61c46b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3572d8eab0edb004",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 669.5110359191895
+  },
+  "right": {
+    "id": "8a77af4e446dc195",
+    "type": "split",
+    "children": [
+      {
+        "id": "289318d92c1e859b",
+        "type": "tabs",
+        "dimension": 50.41095890410959,
+        "children": [
+          {
+            "id": "3a7ee0b2cf34b2ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Courses/Reverse engineering synthesis/Lesson_3/3.2 Casual sounds.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4614177411b6700a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Courses/Reverse engineering synthesis/Lesson_3/3.2 Casual sounds.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7902544a235fb114",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d29a79d443e85f85",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Courses/Reverse engineering synthesis/Lesson_3/3.2 Casual sounds.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "0ad1b3df3f150c1b",
+        "type": "tabs",
+        "dimension": 49.589041095890416,
+        "children": [
+          {
+            "id": "a898e017043d7726",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "e41ac9c1782c1d2e",
+  "lastOpenFiles": [
+    "Courses/Reverse engineering synthesis/Lesson_3/3.1 Creating your own synthesizer.md",
+    "Courses/Reverse engineering synthesis/Lesson_3/3.2 Casual sounds.md",
+    "Senior/13 Необходимых навыков аудиодизайнера уровня Senior.canvas",
+    "Courses/Reverse engineering synthesis/Lesson_3/3.1 Creating your own synthesizer..md",
+    "File/Pasted image 20230928165614.png",
+    "Pasted image 20230928175041.png",
+    "File/Pasted image 20230928190426.png",
+    "File/Casual 1.wav",
+    "File",
+    "Pasted image 20230928151011.png",
+    "Pasted image 20230928151106.png",
+    "Pasted image 20230928151329.png",
+    "Pasted image 20230928151409.png",
+    "Pasted image 20230928151512.png",
+    "Pasted image 20230928151534.png",
+    "Pasted image 20230928153036.png",
+    "Courses/Reverse engineering synthesis/Lesson_3/3.1 Creating your own synthesizer._冲突文件_David Li_20230928191352.md.baiduyun.uploading.cfg",
+    "Courses/Reverse engineering synthesis/Lesson_3/3.1 Creating your own synthesizer.(1).md.baiduyun.downloading.cfg",
+    "Courses/Reverse engineering synthesis/Lesson_3/3.1 Creating your own synthesizer.(1).md.baiduyun.downloading",
+    "Courses/Reverse engineering synthesis/Lesson_3/Casual sounds.md",
+    "Pasted image 20230928190426.png.baiduyun.uploading.cfg",
+    "Pasted image 20230928183103.png.baiduyun.uploading.cfg",
+    "Pasted image 20230928180626.png.baiduyun.uploading.cfg",
+    "Pasted image 20230928180605.png.baiduyun.uploading.cfg",
+    "Pasted image 20230928175041.png.baiduyun.uploading.cfg",
+    "Courses/Reverse engineering synthesis/Lesson_3/Casual sound.canvas",
+    "Courses/Reverse engineering synthesis/Lesson_3/Creating your own synthesizer. Casual sounds.canvas",
+    "Без названия.canvas",
+    "13 Необходимых навыков аудиодизайнера уровня Senior.md",
+    "Запись звуков.md",
+    "Work in BlackJack/Work plan for the week/2023-09-27.md",
+    "Box tool/Templates/Work in BlackJack/Work plan for the week.md",
+    "Work in BlackJack/Work plan for the week/2023-09-11.md",
+    "2023-09-27.md",
+    "Work in BlackJack/Work plan for the week/2023-09-10.md",
+    "Work in BlackJack/Work plan for the week/2023-09-09.md",
+    "WORK PLAN/WORK PLAN 2023.09.25.md",
+    "Без названия/Demo hols.canvas",
+    "WORK PLAN/WORK PLAN 18.09.2023.md"
+  ]
+}

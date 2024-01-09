@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"3c8e3340e7a8f177","type":"text","text":"<p align=\"center\">SOUND SYSTEMS</p>","x":-20,"y":-260,"width":250,"height":69,"color":"3"},
+		{"id":"3dd6bea10d8d4d7e","type":"text","text":"<p align=\"center\">PROCEDURALLY GENERATED SYSTEMS","x":140,"y":-162,"width":250,"height":54,"color":"3"},
+		{"id":"45227059c3dc150d","type":"text","text":"<p align=\"center\">GENERATIVE SYSTEMS","x":-180,"y":-162,"width":250,"height":54,"color":"3"},
+		{"id":"3fd7a3502e52b1c5","type":"text","text":"<p align=\"center\">The sound is generated (led) with the help of content consisting of many samples, depending on the input parameters. ","x":-180,"y":-80,"width":250,"height":160},
+		{"id":"656f43b97b967d0e","type":"text","text":"<p align=\"center\">The sound is created (designed) in real time with the help of synthesizers, depending on the input parameters.  ","x":140,"y":-80,"width":250,"height":160}
+	],
+	"edges":[
+		{"id":"24e67a4d10cdbcb5","fromNode":"3c8e3340e7a8f177","fromSide":"left","toNode":"45227059c3dc150d","toSide":"top","color":"3"},
+		{"id":"b6b7ad4295c5f51d","fromNode":"3c8e3340e7a8f177","fromSide":"right","toNode":"3dd6bea10d8d4d7e","toSide":"top","color":"3"}
+	]
+}

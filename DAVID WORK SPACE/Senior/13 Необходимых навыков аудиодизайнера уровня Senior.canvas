@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"e98765efba781178","type":"text","text":"<p align=\"center\">СОЗДАНИЕ ЗВУКОВЫХ СИСТЕМ</p>","x":363,"y":197,"width":250,"height":60},
+		{"id":"9aa38833cf1df9ce","type":"text","text":"<p align=\"center\"> ДИНАМИЧЕСКОЕ СВЕДЕНИЕ</p>\n\n- Общее представление о миксе игры\n- Знание психоакустики\n- Сведение в аудиодвижке","x":-1160,"y":357,"width":325,"height":213},
+		{"id":"f7025f7d45f90cde","type":"text","text":"<p align=\"center\"> ОПТИМИЗАЦИЯ ЗВУКОВ В ИГРОВОМ ПРОТОТИПЕ</p>\n\n- Анализ геймплея\n- Анализ референсов\n- Мониторинг основных показателей\n- Профайлинг","x":-797,"y":357,"width":325,"height":257},
+		{"id":"8664364c81635180","type":"text","text":"<p align=\"center\">СВЕДЕНИЕ</p>","x":-760,"y":197,"width":250,"height":60},
+		{"id":"cf8bda604fa7d38d","type":"text","text":"<p align=\"center\">СВЕДЕНИЕ ЛИНЕЙНОГО ЗВУКА</p>\n\n- Анализ частотных и громкостных характеристик\n- Использование железного оборудования\n- Понимание различных стилей и направление в музыке и игрых","x":-441,"y":357,"width":325,"height":280},
+		{"id":"c0bc3e18b9587443","type":"text","text":"<p align=\"center\">ПОДГОТОВКА КОНТЕНТА</p>","x":-1877,"y":197,"width":250,"height":60},
+		{"id":"24ddde038b37345c","type":"text","text":"<p align=\"center\"> ЗАПИСЬ ЗВУКОВ</p>\n\n- Foley запись\n- Полевая запись\n- Запись музыкальных инструментов и техник\n- Работа с голосом","x":-2279,"y":359,"width":325,"height":197},
+		{"id":"7c0c48e36c717964","type":"text","text":"<p align=\"center\"> СОЗДАНИЕ МУЗЫКИ</p>\n\n- Навыки работы с интерактивными музыкальными системами\n- Знание музыкальной теории\n- Навыки музыкального саунд дизайна\n- Понимание специфики различных музыкальных жанров","x":-1549,"y":359,"width":325,"height":280},
+		{"id":"da8e5cf9e02109bf","type":"text","text":"<p align=\"center\"> ДИЗАЙН ЗВУКОВ</p>\n\n- Уверенное использование DAW и эффектов обработки\n- Работа с библиотеками\n- Синтез звука\n- Анализ частотных и гармонических характеристик","x":-1914,"y":359,"width":325,"height":243},
+		{"id":"3ebc1f8e9b8c41e5","type":"text","text":"<p align=\"center\">ИМПЛЕМЕНТАЦИЯ</p>\n\n- Знание основ кодирования\n- Навыки работы с интерактивными звуковыми системами Unity или Unreal Engine\n- Умение работать с аудио движками FMOD и Wwise\n- Составление технической документации","x":326,"y":357,"width":325,"height":311},
+		{"id":"d118a314b16322d4","type":"text","text":"<p align=\"center\">ТЕСТИРОВАНИЕ</p>\n\n- Работа с игровым движком\n- Умение работать в команде с разработчиками и дизайнерами\n- Работа с системами версионого контроля","x":678,"y":357,"width":325,"height":249},
+		{"id":"5773f07a848b43fa","type":"text","text":"<p align=\"center\">ПОСТРОЕНИЕ АРХИТЕКТУРЫ ЗВУКА И КОНЦЕПТА</p>\n\n- Понятие основ гейм дизайна\n- Предстовление о разных игровых жанрах и их особенностях\n- Оптимизация архитектурых решений ","x":-32,"y":357,"width":325,"height":249},
+		{"id":"0288470b71790d2c","type":"text","text":"<p align=\"center\">ИГРОВАЯ ЭКСПЕРТИЗА</p>","x":1120,"y":207,"width":325,"height":50},
+		{"id":"4867763cb417009d","type":"text","text":"<p align=\"center\">НАВЫКИ АУДИОДИЗАЙНЕРА</p>","x":-282,"y":-40,"width":250,"height":53,"color":"1"},
+		{"id":"9eff802dc77704ae","type":"text","text":"<p align=\"center\">ГЕЙМЕРСКИЙ ОПЫТ</p>","x":1120,"y":307,"width":325,"height":50},
+		{"id":"99dd82f04914e474","type":"text","text":"-  Понимание различных игровых жанров\n- Предстовление о восприятии игрока","x":1120,"y":412,"width":325,"height":140}
+	],
+	"edges":[
+		{"id":"9489661eda578a53","fromNode":"c0bc3e18b9587443","fromSide":"bottom","toNode":"24ddde038b37345c","toSide":"top"},
+		{"id":"486f26ed0bf90084","fromNode":"c0bc3e18b9587443","fromSide":"bottom","toNode":"da8e5cf9e02109bf","toSide":"top"},
+		{"id":"353fbe52f9278b90","fromNode":"c0bc3e18b9587443","fromSide":"bottom","toNode":"7c0c48e36c717964","toSide":"top"},
+		{"id":"72926fb4ee5e25a6","fromNode":"4867763cb417009d","fromSide":"bottom","toNode":"c0bc3e18b9587443","toSide":"top","color":"1"},
+		{"id":"fb4e36eaaaeace5f","fromNode":"4867763cb417009d","fromSide":"bottom","toNode":"e98765efba781178","toSide":"top","color":"1"},
+		{"id":"d60f7839a3d6b3a3","fromNode":"e98765efba781178","fromSide":"bottom","toNode":"3ebc1f8e9b8c41e5","toSide":"top"},
+		{"id":"5d37c95e7a1d2afa","fromNode":"e98765efba781178","fromSide":"bottom","toNode":"5773f07a848b43fa","toSide":"top"},
+		{"id":"01e306aba47c1c19","fromNode":"e98765efba781178","fromSide":"bottom","toNode":"d118a314b16322d4","toSide":"top"},
+		{"id":"dd7a994c2d191ef9","fromNode":"8664364c81635180","fromSide":"bottom","toNode":"9aa38833cf1df9ce","toSide":"top"},
+		{"id":"5790ee0a07d3de40","fromNode":"8664364c81635180","fromSide":"bottom","toNode":"f7025f7d45f90cde","toSide":"top"},
+		{"id":"fa8e3db4773ae0f8","fromNode":"8664364c81635180","fromSide":"bottom","toNode":"cf8bda604fa7d38d","toSide":"top"},
+		{"id":"6cc0e84f8fc3d53c","fromNode":"4867763cb417009d","fromSide":"bottom","toNode":"8664364c81635180","toSide":"top","color":"1"},
+		{"id":"9e9a1e353091a268","fromNode":"0288470b71790d2c","fromSide":"bottom","toNode":"9eff802dc77704ae","toSide":"top"},
+		{"id":"440e13168ce44aa1","fromNode":"9eff802dc77704ae","fromSide":"bottom","toNode":"99dd82f04914e474","toSide":"top"},
+		{"id":"ad554e10000ada5a","fromNode":"4867763cb417009d","fromSide":"bottom","toNode":"0288470b71790d2c","toSide":"top","color":"1"}
+	]
+}

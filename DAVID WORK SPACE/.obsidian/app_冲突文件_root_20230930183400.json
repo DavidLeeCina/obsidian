@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "Files",
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showInlineTitle": false,
+  "spellcheck": true
+}
